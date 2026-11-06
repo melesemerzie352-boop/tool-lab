@@ -1,2 +1,1 @@
-this is the text 
-it is the  second 
+this is the text
