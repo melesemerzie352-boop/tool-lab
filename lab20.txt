@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is the text
+=======
+this is the text 
+it is the  second 
+from remote
+>>>>>>> origin/master
+
+this is the last 
